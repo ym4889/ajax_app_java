@@ -9,4 +9,6 @@ public class PostEntity {
   private Integer id;
   private String content;
   private Timestamp createdAt;
+
+  
 }
